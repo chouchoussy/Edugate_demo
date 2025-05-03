@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; margin: 0; }
+a.active { font-weight: 700; color: #2563eb; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ccc; padding: 4px 8px; }
