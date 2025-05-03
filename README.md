@@ -1,4 +1,5 @@
 # BACKEND
+Bản backup fake lỡ không code kịp
 ## Cài đặt 
 - cd EduGate_backend
 - cd edugate-backend
